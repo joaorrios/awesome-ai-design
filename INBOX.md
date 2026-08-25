@@ -1,0 +1,79 @@
+# Inbox
+
+Untriaged starred repos. Review one by one: if it fits, move the entry to the right section of [README.md](README.md) (rewrite the blurb to match); if it doesn't fit this list's theme, delete the entry.
+
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — 172k ⭐ — The context API to search, scrape, and interact with the web at scale.
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) — 195k ⭐ — DeepSeek Harness: Everything is a Plugin.
+- [obra/superpowers](https://github.com/obra/superpowers) — 277k ⭐ — An agentic skills framework & software development methodology that works.
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — 79k ⭐ — The open-source app everyone uses to manage agents at work.
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — 77k ⭐ — CLI proxy that reduces LLM token consumption by 60–90% on common dev commands.
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) — 67.5k ⭐ — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM.
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) — 91.8k ⭐ — Persistent context across sessions for every agent; captures, compresses, and re-injects session context.
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) — 49.7k ⭐ — Use Claude Code, Codex, Pi, and OpenCode for free from terminal, app, IDE, or phone.
+- [prettier/prettier](https://github.com/prettier/prettier) — 52.2k ⭐ — Opinionated code formatter.
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — 55k ⭐ — Free AI gateway: one endpoint, 350 providers, 1200+ models, quota-aware auto-fallback.
+- [usestrix/strix](https://github.com/usestrix/strix) — 58.1k ⭐ — Open-source AI penetration testing tool to find and fix app vulnerabilities.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) — 42.6k ⭐ — Write HTML. Render video. Built for agents.
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — 45.6k ⭐ — Marketing skills for Claude Code and AI agents: CRO, copywriting, SEO, analytics, growth.
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) — 33.8k ⭐ — Self-hosted AI coding assistant.
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — 25.5k ⭐ — Turn any technical book PDF into a Claude Code skill.
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) — 24.6k ⭐ — Collection of 100+ specialized Claude Code subagents.
+- [dubinc/dub](https://github.com/dubinc/dub) — 24.6k ⭐ — Modern link attribution platform.
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) — 23.9k ⭐ — AGENTS.md: a simple, open format for guiding coding agents.
+- [decolua/9router](https://github.com/decolua/9router) — 26.3k ⭐ — Unlimited free AI coding via 40+ providers with auto-fallback for coding agents.
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) — 18.9k ⭐ — Unofficial Python API and agentic skill for NotebookLM.
+- [bradautomates/claude-video](https://github.com/bradautomates/claude-video) — 16.2k ⭐ — Give Claude the ability to watch any video via /watch.
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) — 14.8k ⭐ — Curated list of Claude Skills, resources, and tools.
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) — 15k ⭐ — Orchestrate multiple coding agents from desktop and mobile.
+- [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) — 14.9k ⭐ — Open-source AI avatar toolkit for offline video generation and digital human cloning.
+- [every-app/open-seo](https://github.com/every-app/open-seo) — 13.5k ⭐ — Open source alternative to Semrush and Ahrefs.
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) — 11.6k ⭐ — Fully-local ElevenLabs alternative: voice cloning, dubbing, transcription in 646 languages.
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) — 10.9k ⭐ — macOS dictation app with on-device STT and AI enhancement.
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) — 10.1k ⭐ — Curated list of Claude Skills.
+- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) — 8.2k ⭐ — Open-source Webflow/Framer alternative: agentic self-hosted visual CMS outputting clean static pages.
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) — 11.2k ⭐ — 66 specialized skills for full-stack developers.
+- [trailofbits/skills](https://github.com/trailofbits/skills) — 6.8k ⭐ — Trail of Bits skills for security research, vulnerability detection, and audits.
+- [cursor/plugins](https://github.com/cursor/plugins) — 5.2k ⭐ — Cursor plugin specification and official plugins.
+- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) — 6k ⭐ — Removes 20+ patterns of AI slop from any piece of writing.
+- [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) — 3.8k ⭐ — Design ❤️ Code.
+- [figma/code-connect](https://github.com/figma/code-connect) — 1.6k ⭐ — Connect design system components in code with Figma.
+- [jenslys/opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth) — 1.7k ⭐ — Gemini auth plugin for opencode.
+- [adrianhajdin/figma_clone](https://github.com/adrianhajdin/figma_clone) — 1.3k ⭐ — Figma clone using Next.js, Fabric.js, and Liveblocks.
+- [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) — 1.2k ⭐ — OpenCode plugin using your existing Claude Code credentials.
+- [withoutbg/withoutbg-python](https://github.com/withoutbg/withoutbg-python) — 1.2k ⭐ — Python SDK for local and cloud background removal.
+- [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) — 1.5k ⭐ — Official ElevenLabs MCP server.
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) — 2.5k ⭐ — Customize Claude Code's system prompts, themes, toolsets, and UI.
+- [joshpuckett/dialkit](https://github.com/joshpuckett/dialkit) — 886 ⭐ — Library to help dial in interface parameters of any kind.
+- [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) — 916 ⭐ — Browser automation clicks buttons; OpenTabs calls APIs.
+- [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) — 800 ⭐ — Persistent personal memory engine for AI tools, free and local.
+- [robonuggets/gauntlet-loop](https://github.com/robonuggets/gauntlet-loop) — 666 ⭐ — Prompt pattern that makes your agent set a quality bar and run builder/critic pairs until it wins.
+- [ycode/ycode](https://github.com/ycode/ycode) — 281 ⭐ — Open source visual website builder and CMS.
+- [agamm/claude-code-owasp](https://github.com/agamm/claude-code-owasp) — 345 ⭐ — Claude Code skill for OWASP security best practices (2025–2026).
+- [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) — 324 ⭐ — Curated collection of useful AI prompts.
+- [jalaalrd/anti-ai-slop-writing](https://github.com/jalaalrd/anti-ai-slop-writing) — 409 ⭐ — Writing skill that eliminates detectable AI patterns across many agents.
+- [samirpatil2000/Buffer](https://github.com/samirpatil2000/Buffer) — 409 ⭐ — Lightweight privacy-focused macOS clipboard manager with searchable history.
+- [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd) — 3.9k ⭐ — Tree-of-thought skill with pruning for creative and interdisciplinary agent work.
+- [nodetool-ai/nodetool](https://github.com/nodetool-ai/nodetool) — 492 ⭐ — The open-source, agent-first creative workspace.
+- [riflosnake/HumanCursor](https://github.com/riflosnake/HumanCursor) — 510 ⭐ — Simulate human cursor movement for automated scripts.
+- [nordcraftengine/nordcraft](https://github.com/nordcraftengine/nordcraft) — 487 ⭐ — Packages used internally by the Nordcraft engine.
+- [komunite/kalfa](https://github.com/komunite/kalfa) — 242 ⭐ — Turkish professional "OS" for Claude Code: 10 agents, 22 commands, 993 skills.
+- [willytop8/OpenCode-goal-plugin](https://github.com/willytop8/OpenCode-goal-plugin) — 248 ⭐ — Durable guarded goal workflows for OpenCode.
+- [Othmane-Khadri/gtm-engineer-playbook](https://github.com/Othmane-Khadri/gtm-engineer-playbook) — 54 ⭐ — 10 Claude Code skills for GTM: ICP, signals, lead scoring, outreach.
+- [depwire/depwire](https://github.com/depwire/depwire) — 59 ⭐ — The missing context layer for AI-assisted refactoring.
+- [zxkane/social-agents](https://github.com/zxkane/social-agents) — 28 ⭐ — Simple social agents powered by Claude Agent SDK.
+- [lukehutch/unnerfcc](https://github.com/lukehutch/unnerfcc) — 25 ⭐ — Drop-in replacement prompts that un-nerf Claude Code's brevity directives.
+- [arzisxam/apfs-excavate](https://github.com/arzisxam/apfs-excavate) — 22 ⭐ — CLI for extracting files from damaged or encrypted APFS disk images.
+- [TranHuuHoang/agentpeek](https://github.com/TranHuuHoang/agentpeek) — 40 ⭐ — Real-time visualization for multi-agent AI systems.
+- [jooray/humanizer](https://github.com/jooray/humanizer) — 37 ⭐ — Claude Code skill removing signs of AI-generated writing.
+- [dweinstein/mobile-security-skills](https://github.com/dweinstein/mobile-security-skills) — 39 ⭐ — Agent skills for mobile application security testing.
+- [malcolm1232/WorkBoard](https://github.com/malcolm1232/WorkBoard) — 13 ⭐ — WorkBoard for Claude Code and humans; never lose an idea or workflow.
+- [Autoloops/greplica](https://github.com/Autoloops/greplica) — 430 ⭐ — Persistent searchable engineering memory for AI coding agents.
+- [drunkrhin0/antislop](https://github.com/drunkrhin0/antislop) — 22 ⭐ — Remove slop in an AI slop world.
+- [marketingskills/plain-language-editor](https://github.com/marketingskills/plain-language-editor) — 9 ⭐ — Turn LLM-sounding content into plain, human, low-reading-age copy.
+- [le-diegz/claude-skills-registry](https://github.com/le-diegz/claude-skills-registry) — 8 ⭐ — Open-source registry of Claude skills across design, code, content, data.
+- [virtualstarsmith/awesome-oss-ai-alternatives](https://github.com/virtualstarsmith/awesome-oss-ai-alternatives) — 4 ⭐ — Bilingual awesome list of OSS alternatives to paid AI tools.
+- [tamdogood/make-playbook](https://github.com/tamdogood/make-playbook) — 4 ⭐ — Indie-maker checklists inspired by Pieter Levels' MAKE as a Claude Code skill.
+- [GoldLegendW80/llm-video-maker](https://github.com/GoldLegendW80/llm-video-maker) — 17 ⭐ — Turn one prompt into a finished MP4 with voiceover, captions, music.
+- [martin-dehlan/tokenmoth](https://github.com/martin-dehlan/tokenmoth) — 1 ⭐ — Per-repo token usage & cost tracking for Claude Code via a SessionEnd hook.
+- [lucasbacic-li/li-render-skill](https://github.com/lucasbacic-li/li-render-skill) — 2 ⭐ — Skill para migrações de lojas para o li-render da Loja Integrada.
+- [ganeshdanuri/figma-clone](https://github.com/ganeshdanuri/figma-clone) — 2 ⭐ — Lightweight Figma-like canvas editor built with React and Vite.
