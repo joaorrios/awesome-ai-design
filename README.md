@@ -63,6 +63,7 @@ Design tools built around AI agents, or rebuilt so agents can operate them direc
 - [Vibma](https://github.com/ufira-ai/Vibma) ![Stars](https://img.shields.io/badge/stars-624-blue) — Vibe Design meets Figma: let AI agents design directly in Figma.
 - [flaude](https://github.com/Ana-creates/flaude) ![Stars](https://img.shields.io/badge/stars-31-blue) — Figma plugin: AI design assistant that generates production-ready designs with Claude.
 - [ditto.site](https://github.com/ion-design/ditto.site) ![Stars](https://img.shields.io/badge/stars-1.6k-blue) — Turns a public URL into a self-contained TypeScript app via a deterministic capture-to-code pipeline.
+- [nodetool](https://github.com/nodetool-ai/nodetool) ![Stars](https://img.shields.io/badge/stars-500-blue) — The open-source, agent-first creative workspace: visual node workflows for image, video, and 3D generation, controllable by agents ([nodetool.ai](https://nodetool.ai)).
 - [designer-notes](https://github.com/arturnbull/designer-notes) ![Stars](https://img.shields.io/badge/stars-7-blue) — Pin comments like in design tools, then hand off to Claude Code to apply the changes.
 
 ## UI design references & guidelines
