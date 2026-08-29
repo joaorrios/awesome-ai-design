@@ -77,3 +77,8 @@ Untriaged starred repos. Review one by one: if it fits, move the entry to the ri
 - [martin-dehlan/tokenmoth](https://github.com/martin-dehlan/tokenmoth) — 1 ⭐ — Per-repo token usage & cost tracking for Claude Code via a SessionEnd hook.
 - [lucasbacic-li/li-render-skill](https://github.com/lucasbacic-li/li-render-skill) — 2 ⭐ — Skill para migrações de lojas para o li-render da Loja Integrada.
 - [ganeshdanuri/figma-clone](https://github.com/ganeshdanuri/figma-clone) — 2 ⭐ — Lightweight Figma-like canvas editor built with React and Vite.
+- [gowtham0992/link](https://github.com/gowtham0992/link) — 177 ⭐ — Local personal memory for LLM agents.
+- [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) — 1.5k ⭐ — Open-source implementation of Karpathy's LLM Wiki; upload documents and connect via MCP.
+- [agent-clinic/claude-md-doctor](https://github.com/agent-clinic/claude-md-doctor) — 13 ⭐ — Audit your CLAUDE.md / AGENTS.md: size vitals, dead references, drifted claims, backtested rules.
+- [theclaymethod/unslop](https://github.com/theclaymethod/unslop) — 280 ⭐ — An agent skill to de-AI your writing.
+- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) — 23.6k ⭐ — Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering".
