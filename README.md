@@ -72,6 +72,7 @@ Design tools built around AI agents, or rebuilt so agents can operate them direc
 Published references, living documents, and hand-authored guidelines that describe what makes an interface feel polished.
 
 - [Web Interface Guidelines](https://interfaces.rauno.me/) — Open, periodically-updated checklist of the small details that make a good web interface: typography, motion, touch, accessibility, and optimization rules worth handing to any coding agent.
+- [Inspora](https://www.inspora.design/) — Curated design inspiration gallery, refreshed hourly across Web, Branding, Product, Motion, Illustration, 3D, and Print ([inspora.design](https://www.inspora.design/)).
 
 ## Inbox
 
