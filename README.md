@@ -1,8 +1,90 @@
 # Awesome AI Design
 
-A curated list of AI design resources: component libraries, icon sets, motion kits, design skills for coding agents, and AI-native design tools.
+Curated design resources for product work and AI-assisted building: **screens & flows**, pattern galleries, component libraries, agent skills, AI-native tools, and related craft (type, icons, brand, motion).
 
-Star counts are a rough popularity signal, not a quality ranking — small repos here often punch way above their weight.
+Slug stays `awesome-ai-design`; the list is broader than AI-only. Star counts are a rough popularity signal, not a quality ranking.
+
+## Contents
+
+- [Screens & product UI](#screens--product-ui)
+- [Flows & dashboards](#flows--dashboards)
+- [Pattern galleries](#pattern-galleries)
+- [Design systems catalogs](#design-systems-catalogs)
+- [Curations & libraries](#curations--libraries)
+- [AI agent design docs](#ai-agent-design-docs)
+- [Motion & animation](#motion--animation)
+- [Typography & icons](#typography--icons)
+- [Brand & identity](#brand--identity)
+- [Visual & social](#visual--social)
+- [Component & UI libraries](#component--ui-libraries)
+- [Icons & micro-interactions](#icons--micro-interactions)
+- [Design skills for coding agents](#design-skills-for-coding-agents)
+- [AI-native design tools](#ai-native-design-tools)
+- [UI design references & guidelines](#ui-design-references--guidelines)
+- [Inbox](#inbox)
+
+---
+
+## Screens & product UI
+
+Catalogs of real product screens (mobile, web, SaaS).
+
+- [Mobbin](https://mobbin.com/) — Mobile & web UI screen/flow library; primary hunt source for product screens.
+- [SaaSpo](https://saaspo.com/) — SaaS website and product UI inspiration.
+- [Loadmore](https://loadmo.re/) — Mobile website inspiration.
+- [Recent Design](https://recent.design/) — Recently shipped design work gallery.
+
+## Flows & dashboards
+
+- [Page Flows](https://pageflows.com/) — Product flows and dashboard patterns (strong complement to Mobbin for multi-step UX).
+
+## Pattern galleries
+
+Single-pattern inspiration when the occasion is explicit (hero, nav, CTA, landing).
+
+- [Supahero](https://supahero.io/) — Hero sections.
+- [Navbar Gallery](https://navbar.gallery/) — Navigation bars.
+- [CTA Gallery](https://cta.gallery/) — Call-to-action patterns.
+- [Landing Love](https://landing.love/) — Landing pages.
+
+## Design systems catalogs
+
+- [Component Gallery](https://component.gallery/) — Design systems and component catalogs across the web.
+
+## Curations & libraries
+
+- [Curations Supply](https://curations.supply/) — Broad design resource library / curations.
+
+## AI agent design docs
+
+Living docs and style packs aimed at agents (DESIGN.md / agent UI chrome).
+
+- [Refero Styles](https://styles.refero.design/) — AI agent design `.md` files / style references.
+
+## Motion & animation
+
+- [60fps.design](https://60fps.design/) — UI animation inspiration.
+
+## Typography & icons
+
+- [Uncut](https://uncut.wtf/) — Typography resources.
+- [Hugeicons](https://hugeicons.com/) — Icon sets.
+
+## Brand & identity
+
+- [Rebrand Gallery](https://rebrand.gallery/) — Brand / rebrand case inspiration.
+- [LogoBook](https://logobook.com/) — Logo inspiration.
+
+## Visual & social
+
+Mood and non-product visual (use when the ask is brand/social, not app chrome).
+
+- [Inspora](https://inspora.design/) — Visual design inspiration (web, brand, product, motion, illustration…).
+- [Posts.design](https://posts.design/) — Social post design.
+- [UI Gradients](https://ui.gradients.com/) — Gradients.
+- [Sleek](https://sleek.design/) — AI mobile app creator (tool, not a screen library).
+
+---
 
 ## Component & UI libraries
 
