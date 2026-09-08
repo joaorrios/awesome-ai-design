@@ -101,6 +101,7 @@ Copy-paste component collections and UI kits built for (or working great with) A
 - [pacifio/ui](https://github.com/pacifio/ui) ![Stars](https://img.shields.io/badge/stars-152-blue) — "The shadcn for agent UI": framework-agnostic design language for dense, AMOLED-black, multi-surface interfaces.
 - [xyflow](https://github.com/xyflow/xyflow) ![Stars](https://img.shields.io/badge/stars-38.1k-blue) — React Flow / Svelte Flow: node-based UIs, ready out of the box.
 - [ReUI](https://reui.io/components) — Free open-source library of 1101+ shadcn/ui components for React and Tailwind (Data Grid, Kanban, Event Calendar, Gantt, File Upload, Filters, Stepper). Composed inside realistic dashboard layouts, installed via the shadcn CLI in both Radix UI and Base UI flavors.
+- [pdfcn](https://www.pdfcn.dev/) — Beautifully designed, accessible, customizable PDF components (Takumi + Forme); works with shadcn/ui. Includes agent skill + llms.txt.
 - [VibePrompt](https://vibeprompts.dev/) — "UI prompt library for vibe coders": 256 curated layout prompts across 15 categories (auth, pricing, dashboards, onboarding, hero sections). Paste a prompt into your AI tool to get ready-to-ship Tailwind CSS markup.
 - [coss](https://github.com/cosscom/coss) ![Stars](https://img.shields.io/badge/stars-10.4k-blue) — Official design system of Cal.com ([coss.com/ui](https://coss.com/ui)).
 
