@@ -140,6 +140,7 @@ Skills, rules files, and "design languages" that teach Claude Code / Cursor / Co
 Design tools built around AI agents, or rebuilt so agents can operate them directly.
 
 - [penpot](https://github.com/penpot/penpot) ![Stars](https://img.shields.io/badge/stars-59.2k-blue) — Open-source design platform for product teams; scalable collaboration, developer-friendly.
+- [Raphael](https://raphael.app) — Free unlimited AI image generator with multi-model routing for creative production.
 - [onlook](https://github.com/onlook-dev/onlook) ![Stars](https://img.shields.io/badge/stars-26.6k-blue) — "The Cursor for Designers": visually build, style, and edit your React app with AI.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) ![Stars](https://img.shields.io/badge/stars-130.5k-blue) — Virtual whiteboard with hand-drawn feel; great for agent-readable sketching.
 - [OpenPencil](https://github.com/ZSeven-W/openpencil) ![Stars](https://img.shields.io/badge/stars-5.6k-blue) — First open-source AI-native vector design tool with concurrent agent teams; prompts become UI directly on the canvas.
