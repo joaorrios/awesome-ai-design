@@ -83,7 +83,6 @@ Living docs and style packs aimed at agents (DESIGN.md / agent UI chrome).
 
 Mood and non-product visual (use when the ask is brand/social, not app chrome).
 
-- [Inspora](https://inspora.design/) — Visual design inspiration (web, brand, product, motion, illustration…).
 - [Posts.design](https://posts.design/) — Social post design.
 - [UI Gradients](https://ui.gradients.com/) — Gradients.
 - [Sleek](https://sleek.design/) — AI mobile app creator (tool, not a screen library).
