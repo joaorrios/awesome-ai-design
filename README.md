@@ -33,6 +33,7 @@ Catalogs of real product screens (mobile, web, SaaS).
 - [SaaSpo](https://saaspo.com/) — SaaS website and product UI inspiration.
 - [Loadmore](https://loadmo.re/) — Mobile website inspiration.
 - [Recent Design](https://recent.design/) — Recently shipped design work gallery.
+- [Seesaw](https://www.seesaw.website/) — Hand-picked web design inspiration, updated daily.
 
 ## Flows & dashboards
 
@@ -64,6 +65,9 @@ Living docs and style packs aimed at agents (DESIGN.md / agent UI chrome).
 ## Motion & animation
 
 - [60fps.design](https://60fps.design/) — UI animation inspiration.
+- [Design Spells](https://designspells.com/) — Gallery of interface micro-interactions and small UI details ("design details that feel like magic").
+- [Motion (Zajno)](https://motion.zajno.com/) — Illustrated primer of UI animation principles: easing, offset and delay, fade, morph, and masking.
+- [Motion in Design](https://www.motionin.design/) — Catalog of interactive web sections built around scroll, hover, and cinematic motion.
 
 ## Typography & icons
 
