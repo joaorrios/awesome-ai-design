@@ -76,6 +76,7 @@ Living docs and style packs aimed at agents (DESIGN.md / agent UI chrome).
 - [Design Spells](https://designspells.com/) — Gallery of interface micro-interactions and small UI details ("design details that feel like magic").
 - [Motion (Zajno)](https://motion.zajno.com/) — Illustrated primer of UI animation principles: easing, offset and delay, fade, morph, and masking.
 - [Motion in Design](https://www.motionin.design/) — Catalog of interactive web sections built around scroll, hover, and cinematic motion.
+- [Annnimate](https://annnimate.com/animations) — GSAP animation components for React and Vue.
 
 ## Typography & icons
 
@@ -131,6 +132,11 @@ Copy-paste component collections and UI kits built for (or working great with) A
 - [Astryx](https://astryx.atmeta.com/) — Open-source UI component library from Meta.
 - [Evil Charts](https://evilcharts.com/) — Animated charts.
 - [Reverse UI](https://reverseui.com/) — Animated UI components.
+- [useLayouts](https://uselayouts.com/) — Animated React layout components.
+- [Arc UI](https://uiarc.dev/) — Animated React components for shadcn and Next.js.
+- [Bencho](https://bencho.dev/) — Interactive React components and micro-interactions.
+- [Hyperiux Vault](https://vault.hyperiux.com/) — React and Next.js interaction effects.
+- [UI Maxxing](https://uimaxx.ing/) — UI component library.
 
 ## Icons & micro-interactions
 
@@ -138,7 +144,7 @@ Animated icons and small-scale interaction polish.
 
 - [AnimateIcons](https://github.com/Avijit07x/animateicons) ![Stars](https://img.shields.io/badge/stars-1.1k-blue) — Free open-source animated SVG icons for React; smooth micro-interactions, lightweight ([animateicons.in](https://animateicons.in)). Lucide-compatible collection on 21st.dev: [animateicons-lucide](https://21st.dev/@avijit07x/library/animateicons-lucide).
 - [21st.dev Community Icons](https://21st.dev/community/icons) — Community-submitted icon sets in the 21st.dev registry.
-- [Libraries by Jakub Antalik](https://github.com/Jakubantalik/Libraries) ![Stars](https://img.shields.io/badge/stars-2.4k-blue) — Effects for React: border beam, liquid gooey, thinking orbs.
+- [Libraries by Jakub Antalik](https://github.com/Jakubantalik/Libraries) ![Stars](https://img.shields.io/badge/stars-2.4k-blue) — Effects for React: border beam, liquid gooey, thinking orbs ([libraries.dev](https://libraries.dev)).
 - [transitions.dev](https://github.com/Jakubantalik/transitions.dev) ![Stars](https://img.shields.io/badge/stars-3.2k-blue) — The most essential transitions for web apps, shipped as a skill for agents + Refine tool.
 - [kinetics](https://github.com/ckissi/kinetics) ![Stars](https://img.shields.io/badge/stars-526-blue) — Library of interface animations built on spring physics instead of fixed-duration easing ([kinetics.colorion.co](https://kinetics.colorion.co)).
 - [MicroKit](https://microkit.co/) — Copy-paste micro-interactions.
