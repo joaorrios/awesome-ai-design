@@ -126,6 +126,11 @@ Copy-paste component collections and UI kits built for (or working great with) A
 - [SmoothUI](https://smoothui.dev/) — Animated React components built with Motion and GSAP.
 - [Shadcnblocks](https://www.shadcnblocks.com/) — Pre-built section blocks for shadcn/ui.
 - [Liquid Glass](https://glass.samasante.com/) — Glass refraction components.
+- [Kobra](https://kobra.systems/) — React components for polished interactions.
+- [beUI](https://beui.dev/) — Animated React components.
+- [Astryx](https://astryx.atmeta.com/) — Open-source UI component library from Meta.
+- [Evil Charts](https://evilcharts.com/) — Animated charts.
+- [Reverse UI](https://reverseui.com/) — Animated UI components.
 
 ## Icons & micro-interactions
 
