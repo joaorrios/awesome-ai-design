@@ -37,6 +37,9 @@ Catalogs of real product screens (mobile, web, SaaS).
 - [Minimal Gallery](https://minimal.gallery/) — Curated high-end websites.
 - [Godly](https://godly.website/) — Curated websites.
 - [Kage](https://kage.design/) — UI inspiration paired with prompts for coding agents.
+- [Shoot](https://www.shoot.design/) — Clean mobile UI layouts and interaction-ready screens gallery.
+- [SCRNSHTS](https://scrnshts.club/) — Curated mobile app screenshots by category; study UI patterns and best practices.
+- [404s.design](https://www.404s.design/) — Curated gallery of thoughtful, expressive 404 / error page designs.
 
 ## Flows & dashboards
 
@@ -134,6 +137,7 @@ Copy-paste component collections and UI kits built for (or working great with) A
 - [Reverse UI](https://reverseui.com/) — Animated UI components.
 - [useLayouts](https://uselayouts.com/) — Animated React layout components.
 - [Arc UI](https://uiarc.dev/) — Animated React components for shadcn and Next.js.
+- [Space UI](https://www.spaceui.one/) — Crafted interactive UI components, blocks, shaders, and templates (Base UI + Tailwind); includes Orb Bloop and animation primitives.
 - [Bencho](https://bencho.dev/) — Interactive React components and micro-interactions.
 - [Hyperiux Vault](https://vault.hyperiux.com/) — React and Next.js interaction effects.
 - [UI Maxxing](https://uimaxx.ing/) — UI component library.
