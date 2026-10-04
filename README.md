@@ -34,6 +34,9 @@ Catalogs of real product screens (mobile, web, SaaS).
 - [Loadmore](https://loadmo.re/) — Mobile website inspiration.
 - [Recent Design](https://recent.design/) — Recently shipped design work gallery.
 - [Seesaw](https://www.seesaw.website/) — Hand-picked web design inspiration, updated daily.
+- [Minimal Gallery](https://minimal.gallery/) — Curated high-end websites.
+- [Godly](https://godly.website/) — Curated websites.
+- [Kage](https://kage.design/) — UI inspiration paired with prompts for coding agents.
 
 ## Flows & dashboards
 
@@ -47,6 +50,9 @@ Single-pattern inspiration when the occasion is explicit (hero, nav, CTA, landin
 - [Navbar Gallery](https://navbar.gallery/) — Navigation bars.
 - [CTA Gallery](https://cta.gallery/) — Call-to-action patterns.
 - [Landing Love](https://landing.love/) — Landing pages.
+- [Land-book](https://land-book.com/) — Landing pages.
+- [Footer Design](https://footer.design/) — Footer layouts.
+- [Pricing Pages](https://pricingpages.design/) — Pricing pages.
 
 ## Design systems catalogs
 
@@ -55,6 +61,8 @@ Single-pattern inspiration when the occasion is explicit (hero, nav, CTA, landin
 ## Curations & libraries
 
 - [Curations Supply](https://curations.supply/) — Broad design resource library / curations.
+- [Awwwards](https://www.awwwards.com/) — Ranked web design.
+- [Hoverstat.es](https://hoverstat.es/) — Experimental web projects.
 
 ## AI agent design docs
 
@@ -68,11 +76,13 @@ Living docs and style packs aimed at agents (DESIGN.md / agent UI chrome).
 - [Design Spells](https://designspells.com/) — Gallery of interface micro-interactions and small UI details ("design details that feel like magic").
 - [Motion (Zajno)](https://motion.zajno.com/) — Illustrated primer of UI animation principles: easing, offset and delay, fade, morph, and masking.
 - [Motion in Design](https://www.motionin.design/) — Catalog of interactive web sections built around scroll, hover, and cinematic motion.
+- [Annnimate](https://annnimate.com/animations) — GSAP animation components for React and Vue.
 
 ## Typography & icons
 
 - [Uncut](https://uncut.wtf/) — Typography resources.
 - [Hugeicons](https://hugeicons.com/) — Icon sets.
+- [3dicons](https://3dicons.co/) — 3D icon library.
 
 ## Brand & identity
 
@@ -86,6 +96,7 @@ Mood and non-product visual (use when the ask is brand/social, not app chrome).
 - [Posts.design](https://posts.design/) — Social post design.
 - [UI Gradients](https://ui.gradients.com/) — Gradients.
 - [Sleek](https://sleek.design/) — AI mobile app creator (tool, not a screen library).
+- [Kitbitz](https://kitbitz.art/) — Hand-drawn illustrations.
 
 ---
 
@@ -96,7 +107,8 @@ Copy-paste component collections and UI kits built for (or working great with) A
 - [21st.dev](https://21st.dev/) — Registry of polished, copy-paste React/Tailwind components; the de-facto source when agents "borrow" UI patterns.
 - [BeautifulUI](https://www.beautifului.dev/) — Hand-picked beautiful interface references and component patterns for AI-assisted building.
 - [react-bits](https://github.com/DavidHDev/react-bits) ![Stars](https://img.shields.io/badge/stars-46.1k-blue) — Animated, interactive, fully customizable React components for memorable websites.
-- [motion-primitives](https://github.com/ibelick/motion-primitives) ![Stars](https://img.shields.io/badge/stars-6.1k-blue) — UI kit to make beautiful animated interfaces faster; customizable and open source.
+- [motion-primitives](https://github.com/ibelick/motion-primitives) ![Stars](https://img.shields.io/badge/stars-6.1k-blue) — UI kit to make beautiful animated interfaces faster; customizable and open source ([motion-primitives.com](https://motion-primitives.com)).
+- [Anime.js](https://animejs.com/) — JavaScript library for UI animation.
 - [prompt-kit](https://github.com/ibelick/prompt-kit) ![Stars](https://img.shields.io/badge/stars-3k-blue) — Core building blocks (chat, prompts, streaming UI) for AI app interfaces.
 - [rare-ui](https://github.com/swamimalode07/rare-ui) ![Stars](https://img.shields.io/badge/stars-468-blue) — Rare, ready-to-use UI components and animations you can actually drop into a project.
 - [starc007/ui-components](https://github.com/starc007/ui-components) ![Stars](https://img.shields.io/badge/stars-1.3k-blue) — Motion components for React. Copy, paste, done.
@@ -107,6 +119,24 @@ Copy-paste component collections and UI kits built for (or working great with) A
 - [pdfcn](https://www.pdfcn.dev/) — Beautifully designed, accessible, customizable PDF components (Takumi + Forme); works with shadcn/ui. Includes agent skill + llms.txt.
 - [VibePrompt](https://vibeprompts.dev/) — "UI prompt library for vibe coders": 256 curated layout prompts across 15 categories (auth, pricing, dashboards, onboarding, hero sections). Paste a prompt into your AI tool to get ready-to-ship Tailwind CSS markup.
 - [coss](https://github.com/cosscom/coss) ![Stars](https://img.shields.io/badge/stars-10.4k-blue) — Official design system of Cal.com ([coss.com/ui](https://coss.com/ui)).
+- [Scrolltide](https://scrolltide.co/) — Full-site prompts plus source, written to paste into a coding agent.
+- [shadcn/ui](https://ui.shadcn.com/) — Copy-paste component kit for building a design system.
+- [Aceternity UI](https://ui.aceternity.com/) — Animated React and Tailwind components.
+- [Magic UI](https://magicui.design/) — Animated components and effects for React and Tailwind.
+- [Uiverse](https://uiverse.io/) — Open-source UI elements.
+- [SmoothUI](https://smoothui.dev/) — Animated React components built with Motion and GSAP.
+- [Shadcnblocks](https://www.shadcnblocks.com/) — Pre-built section blocks for shadcn/ui.
+- [Liquid Glass](https://glass.samasante.com/) — Glass refraction components.
+- [Kobra](https://kobra.systems/) — React components for polished interactions.
+- [beUI](https://beui.dev/) — Animated React components.
+- [Astryx](https://astryx.atmeta.com/) — Open-source UI component library from Meta.
+- [Evil Charts](https://evilcharts.com/) — Animated charts.
+- [Reverse UI](https://reverseui.com/) — Animated UI components.
+- [useLayouts](https://uselayouts.com/) — Animated React layout components.
+- [Arc UI](https://uiarc.dev/) — Animated React components for shadcn and Next.js.
+- [Bencho](https://bencho.dev/) — Interactive React components and micro-interactions.
+- [Hyperiux Vault](https://vault.hyperiux.com/) — React and Next.js interaction effects.
+- [UI Maxxing](https://uimaxx.ing/) — UI component library.
 
 ## Icons & micro-interactions
 
@@ -114,9 +144,10 @@ Animated icons and small-scale interaction polish.
 
 - [AnimateIcons](https://github.com/Avijit07x/animateicons) ![Stars](https://img.shields.io/badge/stars-1.1k-blue) — Free open-source animated SVG icons for React; smooth micro-interactions, lightweight ([animateicons.in](https://animateicons.in)). Lucide-compatible collection on 21st.dev: [animateicons-lucide](https://21st.dev/@avijit07x/library/animateicons-lucide).
 - [21st.dev Community Icons](https://21st.dev/community/icons) — Community-submitted icon sets in the 21st.dev registry.
-- [Libraries by Jakub Antalik](https://github.com/Jakubantalik/Libraries) ![Stars](https://img.shields.io/badge/stars-2.4k-blue) — Effects for React: border beam, liquid gooey, thinking orbs.
+- [Libraries by Jakub Antalik](https://github.com/Jakubantalik/Libraries) ![Stars](https://img.shields.io/badge/stars-2.4k-blue) — Effects for React: border beam, liquid gooey, thinking orbs ([libraries.dev](https://libraries.dev)).
 - [transitions.dev](https://github.com/Jakubantalik/transitions.dev) ![Stars](https://img.shields.io/badge/stars-3.2k-blue) — The most essential transitions for web apps, shipped as a skill for agents + Refine tool.
-- [kinetics](https://github.com/ckissi/kinetics) ![Stars](https://img.shields.io/badge/stars-526-blue) — Library of interface animations built on spring physics instead of fixed-duration easing.
+- [kinetics](https://github.com/ckissi/kinetics) ![Stars](https://img.shields.io/badge/stars-526-blue) — Library of interface animations built on spring physics instead of fixed-duration easing ([kinetics.colorion.co](https://kinetics.colorion.co)).
+- [MicroKit](https://microkit.co/) — Copy-paste micro-interactions.
 
 ## Design skills for coding agents
 
