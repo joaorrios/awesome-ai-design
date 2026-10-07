@@ -92,6 +92,7 @@ Living docs and style packs aimed at agents (DESIGN.md / agent UI chrome).
 
 - [Rebrand Gallery](https://rebrand.gallery/) — Brand / rebrand case inspiration.
 - [LogoBook](https://logobook.com/) — Logo inspiration.
+- [Deck.gallery](https://www.deck.gallery/) — Curated presentation decks: brand guidelines, pitch decks, and reports.
 
 ## Visual & social
 
