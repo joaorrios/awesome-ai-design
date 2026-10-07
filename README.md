@@ -80,6 +80,7 @@ Living docs and style packs aimed at agents (DESIGN.md / agent UI chrome).
 - [Motion (Zajno)](https://motion.zajno.com/) — Illustrated primer of UI animation principles: easing, offset and delay, fade, morph, and masking.
 - [Motion in Design](https://www.motionin.design/) — Catalog of interactive web sections built around scroll, hover, and cinematic motion.
 - [Annnimate](https://annnimate.com/animations) — GSAP animation components for React and Vue.
+- [Prompt Motion](https://prompt-motion.com/) — Collection of motion videos made with Claude Opus, with the prompts and skills behind them.
 
 ## Typography & icons
 
