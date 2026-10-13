@@ -55,6 +55,7 @@ Single-pattern inspiration when the occasion is explicit (hero, nav, CTA, landin
 - [Landing Love](https://landing.love/) — Landing pages.
 - [Land-book](https://land-book.com/) — Landing pages.
 - [Footer Design](https://footer.design/) — Footer layouts.
+- [Footers by Kartik Bansal](https://www.figma.com/design/4ukEOT8r7jlKIWdU3hh14X/Footers) — Free editable Figma file of footer designs.
 - [Pricing Pages](https://pricingpages.design/) — Pricing pages.
 
 ## Design systems catalogs
