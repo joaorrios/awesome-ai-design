@@ -30,6 +30,7 @@ Slug stays `awesome-ai-design`; the list is broader than AI-only. Star counts ar
 Catalogs of real product screens (mobile, web, SaaS).
 
 - [Mobbin](https://mobbin.com/) — Mobile & web UI screen/flow library; primary hunt source for product screens.
+- [Refero](https://refero.design) — Real product UI screenshot library for web and iOS.
 - [SaaSpo](https://saaspo.com/) — SaaS website and product UI inspiration.
 - [Loadmore](https://loadmo.re/) — Mobile website inspiration.
 - [Recent Design](https://recent.design/) — Recently shipped design work gallery.
@@ -54,6 +55,7 @@ Single-pattern inspiration when the occasion is explicit (hero, nav, CTA, landin
 - [CTA Gallery](https://cta.gallery/) — Call-to-action patterns.
 - [Landing Love](https://landing.love/) — Landing pages.
 - [Land-book](https://land-book.com/) — Landing pages.
+- [Landdding](https://landdding.com) — Community gallery of website and landing page designs.
 - [Footer Design](https://footer.design/) — Footer layouts.
 - [Footers by Kartik Bansal](https://www.figma.com/design/4ukEOT8r7jlKIWdU3hh14X/Footers) — Free editable Figma file of footer designs.
 - [Pricing Pages](https://pricingpages.design/) — Pricing pages.
@@ -67,6 +69,8 @@ Single-pattern inspiration when the occasion is explicit (hero, nav, CTA, landin
 - [Curations Supply](https://curations.supply/) — Broad design resource library / curations.
 - [Awwwards](https://www.awwwards.com/) — Ranked web design.
 - [Hoverstat.es](https://hoverstat.es/) — Experimental web projects.
+- [Wonderlist](https://wonderlist.design) — Premium Figma website design packs.
+- [Wedoflow](https://wedoflow.com) — Premium Webflow website templates.
 
 ## AI agent design docs
 
@@ -82,18 +86,24 @@ Living docs and style packs aimed at agents (DESIGN.md / agent UI chrome).
 - [Motion in Design](https://www.motionin.design/) — Catalog of interactive web sections built around scroll, hover, and cinematic motion.
 - [Annnimate](https://annnimate.com/animations) — GSAP animation components for React and Vue.
 - [Prompt Motion](https://prompt-motion.com/) — Collection of motion videos made with Claude Opus, with the prompts and skills behind them.
+- [Paper Animation](https://paperanimation.ai) — Turns AI images into paper-cut style animations.
 
 ## Typography & icons
 
 - [Uncut](https://uncut.wtf/) — Typography resources.
 - [Hugeicons](https://hugeicons.com/) — Icon sets.
 - [3dicons](https://3dicons.co/) — 3D icon library.
+- [Iconly](https://iconly.design) — Curated icon inspiration for apps, games, and the web.
+- [Font in Logo](https://fontinlogo.com) — Identifies fonts used in famous brand logos.
+- [Ikonik](https://ikonik.modulify.ai) — Free open-source icon browser with 50k+ SVGs.
 
 ## Brand & identity
 
 - [Rebrand Gallery](https://rebrand.gallery/) — Brand / rebrand case inspiration.
 - [LogoBook](https://logobook.com/) — Logo inspiration.
+- [Logo to Use](https://logotouse.com) — Brand logos for mockups and inspiration; Figma-editable, not for commercial reuse.
 - [Deck.gallery](https://www.deck.gallery/) — Curated presentation decks: brand guidelines, pitch decks, and reports.
+- [Brand Guidelines](https://brandguidelines.net) — Directory of brand style guide and PDF showcases.
 
 ## Visual & social
 
@@ -101,6 +111,8 @@ Mood and non-product visual (use when the ask is brand/social, not app chrome).
 
 - [Posts.design](https://posts.design/) — Social post design.
 - [UI Gradients](https://ui.gradients.com/) — Gradients.
+- [Backgrounds Supply](https://backgrounds.supply) — Gradients, backgrounds, and wallpapers.
+- [Reelfolio](https://reelfolio.io) — Video portfolio showcase from screenshots and clips.
 - [Sleek](https://sleek.design/) — AI mobile app creator (tool, not a screen library).
 - [Kitbitz](https://kitbitz.art/) — Hand-drawn illustrations.
 
@@ -191,6 +203,8 @@ Design tools built around AI agents, or rebuilt so agents can operate them direc
 - [ditto.site](https://github.com/ion-design/ditto.site) ![Stars](https://img.shields.io/badge/stars-1.6k-blue) — Turns a public URL into a self-contained TypeScript app via a deterministic capture-to-code pipeline.
 - [nodetool](https://github.com/nodetool-ai/nodetool) ![Stars](https://img.shields.io/badge/stars-500-blue) — The open-source, agent-first creative workspace: visual node workflows for image, video, and 3D generation, controllable by agents ([nodetool.ai](https://nodetool.ai)).
 - [Superdesign](https://superdesign.dev/) — AI product design agent that turns natural-language prompts into UI: ships with a gallery of prompts, styles, animations, and reusable components ([superdesign.dev](https://superdesign.dev/)).
+- [Modulify](https://modulify.ai) — AI site/app builder with free cloneable templates at `/templates`.
+- [One Prompt Design](https://onepromptdesign.com) — Curated AI image prompts for designers.
 - [designer-notes](https://github.com/arturnbull/designer-notes) ![Stars](https://img.shields.io/badge/stars-7-blue) — Pin comments like in design tools, then hand off to Claude Code to apply the changes.
 
 ## UI design references & guidelines
