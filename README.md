@@ -67,6 +67,7 @@ Single-pattern inspiration when the occasion is explicit (hero, nav, CTA, landin
 ## Curations & libraries
 
 - [Curations Supply](https://curations.supply/) — Broad design resource library / curations.
+- [Charco](https://charco.design) — Premium design assets including 3D shapes and gradients.
 - [Awwwards](https://www.awwwards.com/) — Ranked web design.
 - [Hoverstat.es](https://hoverstat.es/) — Experimental web projects.
 - [Wonderlist](https://wonderlist.design) — Premium Figma website design packs.
@@ -91,6 +92,7 @@ Living docs and style packs aimed at agents (DESIGN.md / agent UI chrome).
 ## Typography & icons
 
 - [Uncut](https://uncut.wtf/) — Typography resources.
+- [Freefaces](https://freefaces.gallery) — Curated free typefaces.
 - [Hugeicons](https://hugeicons.com/) — Icon sets.
 - [3dicons](https://3dicons.co/) — 3D icon library.
 - [Iconly](https://iconly.design) — Curated icon inspiration for apps, games, and the web.
@@ -111,10 +113,12 @@ Mood and non-product visual (use when the ask is brand/social, not app chrome).
 
 - [Posts.design](https://posts.design/) — Social post design.
 - [UI Gradients](https://ui.gradients.com/) — Gradients.
+- [Shader Gradient](https://shadergradient.co) — Customizable animated 3D/shader gradients you can export.
 - [Backgrounds Supply](https://backgrounds.supply) — Gradients, backgrounds, and wallpapers.
 - [Reelfolio](https://reelfolio.io) — Video portfolio showcase from screenshots and clips.
 - [Sleek](https://sleek.design/) — AI mobile app creator (tool, not a screen library).
 - [Kitbitz](https://kitbitz.art/) — Hand-drawn illustrations.
+- [wannathis.one](https://wannathis.one) — Inflatable 3D illustrations.
 
 ---
 
