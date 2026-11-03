@@ -211,6 +211,7 @@ Design tools built around AI agents, or rebuilt so agents can operate them direc
 - [flaude](https://github.com/Ana-creates/flaude) ![Stars](https://img.shields.io/badge/stars-31-blue) — Figma plugin: AI design assistant that generates production-ready designs with Claude.
 - [ditto.site](https://github.com/ion-design/ditto.site) ![Stars](https://img.shields.io/badge/stars-1.6k-blue) — Turns a public URL into a self-contained TypeScript app via a deterministic capture-to-code pipeline.
 - [nodetool](https://github.com/nodetool-ai/nodetool) ![Stars](https://img.shields.io/badge/stars-500-blue) — The open-source, agent-first creative workspace: visual node workflows for image, video, and 3D generation, controllable by agents ([nodetool.ai](https://nodetool.ai)).
+- [Breatic](https://github.com/orime-org/breatic) — Source-available collaborative creation workspace combining shared documents, AI canvases, and human-reviewed project-agent proposals.
 - [Superdesign](https://superdesign.dev/) — AI product design agent that turns natural-language prompts into UI: ships with a gallery of prompts, styles, animations, and reusable components ([superdesign.dev](https://superdesign.dev/)).
 - [Modulify](https://modulify.ai) — AI site/app builder with free cloneable templates at `/templates`.
 - [One Prompt Design](https://onepromptdesign.com) — Curated AI image prompts for designers.
